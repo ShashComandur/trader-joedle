@@ -1,2 +1,13 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+	import ProductInfo from '../components/ProductInfo.svelte';
+	export let data;
+
+	const price = data.price;
+	const img = data.img;
+	const name = data.name;
+	const quantity = data.amount + ' ' + data.unit;
+
+	const product = { name, price, img, quantity };
+</script>
+
+<ProductInfo {product} />
