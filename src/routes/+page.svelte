@@ -24,12 +24,13 @@
 	// Guesses
 	let current_guess, current_hint;
 	let guesses = [];
+	let game_message = '';
 
-	// Handle guess input
 	function handle_guess(guess: number) {
 		let check_win_output = check_win(guesses, guess, price); // get object of check win information
 		game_state = check_win_output.game_state; // update game state if it resulted in a win
 		current_hint = check_win_output.hint; // update current hint
+		game_message = check_win_output.message;
 		guesses = [...guesses, { guess: guess, hint: current_hint }]; // update guesses to display the hints - must be written this way so that Guesses component is reactive
 	}
 </script>
@@ -55,5 +56,10 @@
 				on:click={() => handle_guess(current_guess)}>Submit</button
 			>
 		</div>
+	{/if}
+
+	<!-- show win or loss message if game is not ongoing -->
+	{#if game_state != 1}
+		<h5 class="mb-5 text-2xl font-bold text-gray-900 dark:text-white">{game_message}</h5>
 	{/if}
 </div>
