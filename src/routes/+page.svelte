@@ -1,6 +1,8 @@
 <script lang="ts">
 	import ProductInfo from '../components/ProductInfo.svelte';
 	import Guesses from '../components/Guesses.svelte';
+	import check_win from '$lib/game/game_functions.ts';
+
 	export let data;
 
 	/* Game state:
@@ -17,48 +19,41 @@
 	const quantity = data.amount + ' ' + data.unit;
 	const date = data.date;
 	const game_number = data.game_number;
-
 	const product = { name, price, img, quantity, date, game_number };
 
 	// Guesses
-	let current_guess;
+	let current_guess, current_hint;
 	let guesses = [];
 
 	// Handle guess input
 	function handle_guess(guess: number) {
-		if (guesses.length == 5) {
-			guesses = [...guesses, guess]; // push last guess
-			game_state = 0; // game over
-			return;
-		}
-
-		guesses = [...guesses, guess]; // must be written this way so that Guesses component is reactive
+		let check_win_output = check_win(guesses, guess, price); // get object of check win information
+		game_state = check_win_output.game_state; // update game state if it resulted in a win
+		current_hint = check_win_output.hint; // update current hint
+		guesses = [...guesses, { guess: guess, hint: current_hint }]; // update guesses to display the hints - must be written this way so that Guesses component is reactive
 	}
 </script>
 
-<h1 class="flex justify-center pt-5 font-traderjoes text-6xl text-crimson">Trader Joedle</h1>
+<ProductInfo {product} />
 
-<div class="flex justify-center p-5">
-	<ProductInfo {product} />
-	<div class="p-3">
-		<Guesses {guesses} />
+<div class="p-3">
+	<Guesses {guesses} />
 
-		{#if game_state == 1}
-			<div class="flex justify-center pt-3">
-				<input
-					type="number"
-					id="guess"
-					min="0"
-					placeholder="Enter your guess!"
-					class="pr-3"
-					bind:value={current_guess}
-				/>
-
-				<button
-					class="bg-crimson uppercase text-off-white font-lato w-40 rounded-md"
-					on:click={() => handle_guess(current_guess)}>Submit</button
-				>
-			</div>
-		{/if}
-	</div>
+	<!-- show guess input if game is ongoing -->
+	{#if game_state == 1}
+		<div class="flex justify-center pt-3">
+			<input
+				type="number"
+				id="guess"
+				min="0"
+				placeholder="Enter your guess!"
+				class="pr-3"
+				bind:value={current_guess}
+			/>
+			<button
+				class="bg-crimson uppercase text-off-white font-lato w-40 rounded-md"
+				on:click={() => handle_guess(current_guess)}>Submit</button
+			>
+		</div>
+	{/if}
 </div>
