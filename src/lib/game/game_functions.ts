@@ -30,5 +30,8 @@ export default function check_win(guesses: Array<Object>, guess: number, price: 
         message = "you lose!"
     }
 
+    if (guess - price < 0) { hint += "↑"; }
+    else if (guess - price > 0) { hint += "↓"; }
+
     return { hint, game_state, message };                   // return the hint, message and the current game state
 }

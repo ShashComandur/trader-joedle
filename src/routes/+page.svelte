@@ -37,7 +37,7 @@
 
 <ProductInfo {product} />
 
-<div class="p-3">
+<div class="pt-5 p-3">
 	<Guesses {guesses} />
 
 	<!-- show guess input if game is ongoing -->
