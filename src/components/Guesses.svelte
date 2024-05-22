@@ -10,8 +10,8 @@
 	</h1>
 
 	<div class="font-poly text-3xl">
-		{#each guesses as guess}
-			${guess} <br />
+		{#each guesses as current_guess}
+			${current_guess.guess} {current_guess.hint} <br />
 		{/each}
 	</div>
 </div>
