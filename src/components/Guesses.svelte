@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { fly } from 'svelte/transition';
 	export let guesses = [];
 	$: remaining_guesses = Array(6 - guesses.length);
 </script>
@@ -13,8 +14,10 @@
 	<div class="font-poly text-3xl">
 		{#each guesses as current_guess}
 			<div class="bg-off-white rounded-lg m-1 p-2">
-				${current_guess.guess}
-				{current_guess.hint} <br />
+				<div transition:fly={{ x: 100 }}>
+					${current_guess.guess}
+					{current_guess.hint} <br />
+				</div>
 			</div>
 		{/each}
 		{#each remaining_guesses as remaining}
