@@ -1,7 +1,11 @@
 <script lang="ts">
 	import ProductInfo from '../components/ProductInfo.svelte';
 	import Guesses from '../components/Guesses.svelte';
+	import { copy } from 'svelte-copy';
+	import { toast } from '@zerodevx/svelte-toast';
+	import { SvelteToast } from '@zerodevx/svelte-toast';
 	import check_win from '$lib/game/game_functions.ts';
+	// import format_score from '$lib/game/game_functions.ts';
 
 	export let data;
 
@@ -12,7 +16,7 @@
 	 */
 	let game_state = 1;
 
-	// ProductInfo consts
+	// ProductInfo
 	const price = data.price;
 	const img = data.img;
 	const name = data.name;
@@ -21,21 +25,71 @@
 	const game_number = data.game_number;
 	const product = { name, price, img, quantity, date, game_number };
 
-	// Guesses
+	// Game Information
 	let current_guess, current_hint;
 	let guesses = [];
+	let hints = [];
 	let game_message = '';
+	let score = '';
+	$: already_guessed = false;
 
+	let inputField;
+
+	// guess handler
 	function handle_guess(guess: number) {
-		let check_win_output = check_win(guesses, guess, price); // get object of check win information
-		game_state = check_win_output.game_state; // update game state if it resulted in a win
-		current_hint = check_win_output.hint; // update current hint
-		game_message = check_win_output.message;
-		guesses = [...guesses, { guess: guess, hint: current_hint }]; // update guesses to display the hints - must be written this way so that Guesses component is reactive
+		// check if already submitted
+		already_guessed = false;
+		if (guesses.some((obj) => obj.guess === guess)) {
+			toast.push('Already guessed!');
+			already_guessed = true;
+			return;
+		}
+
+		if (!already_guessed) {
+			// get object of check win information
+			let check_win_output = check_win(guesses, guess, price);
+
+			// update game state, hint, and message
+			game_state = check_win_output.game_state;
+			current_hint = check_win_output.hint;
+			game_message = check_win_output.message;
+
+			// update guesses to display the hints - must be written this way so that Guesses component is reactive
+			guesses = [...guesses, { guess: guess, hint: current_hint }];
+
+			// push hint to hints, which also functions as the final copy-able score
+			hints = [...hints, current_hint];
+
+			// if the game ends
+			if (game_state !== 1) {
+				toast.push(game_message, {
+					initial: 0
+				}); // push win/loss message to toast component
+				score = format_score(); // format copy-able score
+			}
+		}
 	}
+
+	// copy-able score
+	// should probably go in game_functions.ts
+	function format_score() {
+		let ret = 'Trader Joedle #' + game_number + '\n';
+		ret += hints.length + '/6' + '\n';
+		for (const hint of hints) {
+			ret += hint + '\n';
+		}
+		return ret;
+	}
+
+	const onInput = (event) => {
+		if (event.key !== 'Enter') return;
+		handle_guess(current_guess);
+		inputField.value = '';
+	};
 </script>
 
 <ProductInfo {product} />
+<SvelteToast />
 
 <div class="pt-5 p-3">
 	<Guesses {guesses} />
@@ -49,7 +103,9 @@
 				min="0"
 				placeholder="Enter your guess!"
 				class="pr-3"
+				bind:this={inputField}
 				bind:value={current_guess}
+				on:keydown={onInput}
 			/>
 			<button
 				class="bg-crimson uppercase text-off-white font-lato w-40 rounded-md"
@@ -58,8 +114,14 @@
 		</div>
 	{/if}
 
-	<!-- show win or loss message if game is not ongoing -->
-	{#if game_state != 1}
-		<h5 class="mb-5 text-2xl font-bold text-gray-900 dark:text-white">{game_message}</h5>
+	<!-- show copy score button if game is not ongoing -->
+	{#if game_state !== 1}
+		<button
+			class="bg-crimson uppercase text-off-white font-lato w-40 rounded-md"
+			id="copy-button"
+			use:copy={score}
+		>
+			Copy Score
+		</button>
 	{/if}
 </div>
