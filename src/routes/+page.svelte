@@ -1,22 +1,21 @@
 <script lang="ts">
-	import ProductInfo from '../components/ProductInfo.svelte';
-	import Guesses from '../components/Guesses.svelte';
 	import { copy } from 'svelte-copy';
 	import { toast } from '@zerodevx/svelte-toast';
 	import { SvelteToast } from '@zerodevx/svelte-toast';
+	import ProductInfo from '../components/ProductInfo.svelte';
+	import Guesses from '../components/Guesses.svelte';
 	import check_win from '$lib/game/game_functions.ts';
-	// import format_score from '$lib/game/game_functions.ts';
 
 	export let data;
 
-	/* Game state:
+	/* game state:
 	 * game_state = 1 indicates an ongoing game
 	 * game_state = 0 indicates a lost game
 	 * game_state = 2 indicates a won game
 	 */
 	let game_state = 1;
 
-	// ProductInfo
+	// for ProductInfo
 	const price = data.price;
 	const img = data.img;
 	const name = data.name;
@@ -25,15 +24,13 @@
 	const game_number = data.game_number;
 	const product = { name, price, img, quantity, date, game_number };
 
-	// Game Information
-	let current_guess, current_hint;
+	// game information
+	let current_guess, current_hint, inputField;
 	let guesses = [];
 	let hints = [];
 	let game_message = '';
 	let score = '';
 	$: already_guessed = false;
-
-	let inputField;
 
 	// guess handler
 	function handle_guess(guess: number) {
@@ -70,7 +67,7 @@
 		}
 	}
 
-	// copy-able score
+	// returns a formatted copy-able score
 	// should probably go in game_functions.ts
 	function format_score() {
 		let ret = 'Trader Joedle #' + game_number + '\n';
@@ -81,6 +78,7 @@
 		return ret;
 	}
 
+	// submit on 'enter' press and clear input field
 	const onInput = (event) => {
 		if (event.key !== 'Enter') return;
 		handle_guess(current_guess);
@@ -89,7 +87,6 @@
 </script>
 
 <ProductInfo {product} />
-<SvelteToast />
 
 <div class="pt-5 p-3">
 	<Guesses {guesses} />
@@ -107,10 +104,6 @@
 				bind:value={current_guess}
 				on:keydown={onInput}
 			/>
-			<button
-				class="bg-crimson uppercase text-off-white font-lato w-40 rounded-md"
-				on:click={() => handle_guess(current_guess)}>Submit</button
-			>
 		</div>
 	{/if}
 
@@ -121,7 +114,9 @@
 			id="copy-button"
 			use:copy={score}
 		>
-			Copy Score
+			Share Score
 		</button>
 	{/if}
 </div>
+
+<SvelteToast />

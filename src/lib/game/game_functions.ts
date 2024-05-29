@@ -8,6 +8,11 @@ function set_thresholds(price: number) {
     red_threshold = { emoji: '🔴' };
 }
 
+function up_or_down(guess: number, price: number) {
+    if (guess - price < 0) { return "↑"; }
+    else if (guess - price > 0) { return "↓"; }
+}
+
 export default function check_win(guesses: Array<Object>, guess: number, price: number) {
     set_thresholds(price)                                       // set thresholds based on price
     const distance = Math.abs(guess - price);                   // calculate distance to price
@@ -19,19 +24,18 @@ export default function check_win(guesses: Array<Object>, guess: number, price: 
     if (distance <= green_threshold.price) {
         hint = green_threshold.emoji;
         game_state = 2;
-        message = "You win!"
+        message = "You win! The price was $" + price + "." 
     } else if (distance <= yellow_threshold.price) {
         hint = yellow_threshold.emoji;
+        hint += up_or_down(guess, price);
         game_state = guesses.length === 5 ? 0 : 1;
-        message = "You lose!"
+        message = "You lose! The price was $" + price + "." 
     } else {
         hint = red_threshold.emoji;
+        hint += up_or_down(guess, price);
         game_state = guesses.length === 5 ? 0 : 1;
-        message = "You lose!"
+        message = "You lose! The price was $" + price + "." 
     }
-
-    if (guess - price < 0) { hint += "↑"; }
-    else if (guess - price > 0) { hint += "↓"; }
 
     return { hint, game_state, message };                   // return the hint, message and the current game state
 }
