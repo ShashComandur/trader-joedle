@@ -75,6 +75,7 @@
 		for (const hint of hints) {
 			ret += hint + '\n';
 		}
+		ret += 'https://trader-joedle.vercel.app' + '\n';
 		return ret;
 	}
 
