@@ -74,11 +74,5 @@ if __name__ == "__main__":
     game_data = create_game_data(shuffled)
     
     # save to games.json
-    with open("src/lib/game/unique.json", "w", encoding="utf-8") as f:
-        json.dump(unique, f, ensure_ascii=False, indent=4)
-
-    with open("src/lib/game/shuffled.json", "w", encoding="utf-8") as f:
-        json.dump(shuffled, f, ensure_ascii=False, indent=4)
-
     with open(GAMES_PATH, "w", encoding="utf-8") as f:
         json.dump(game_data, f, ensure_ascii=False, indent=4)

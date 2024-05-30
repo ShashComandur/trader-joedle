@@ -43,6 +43,12 @@
 		}
 
 		if (!already_guessed) {
+			let valid_guess = /\d|\./;
+			if (!valid_guess.test(guess)) {
+				toast.push('Invalid input. Try again!');
+				return;
+			}
+
 			// get object of check win information
 			let check_win_output = check_win(guesses, guess, price);
 
