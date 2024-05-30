@@ -4,8 +4,8 @@ There are four product categories for all Trader Joe's items, as described in `c
 Running this script will output all product information for each category, formatted as JSON files in corresponding folders.
 
 It grabs 100 products at a time - I did not want to cause any trouble by trying to pull more than that at once, as I have no information as to whether it is rate-limited. This is why I play it safe with the repeated queries.
-Because this script is really only intended to be run once, I manually merged the resulting JSON files, which can be found in `src/lib/game/api-output/merged/merged.json`.
-############################################ The game JSON, which is what determines the daily games, was created from the resulting merged file.
+Because this script is really only intended to be run once, I manually merged the resulting JSON files, which can be found in `src/lib/game/merged.json`.
+The `src/lib/game/games.json`, which is what determines the daily games, was created from the resulting merged file.
 
 Note that the raw output (the contents of the `food`, `beverage`, `plants`, and `everything-else` folders) has been ignored by git, as these files do not need to exist in the repository,
 
