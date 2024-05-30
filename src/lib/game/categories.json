@@ -1,0 +1,22 @@
+[
+  {
+    "name": "food",
+    "id": 8,
+    "number_items": 1100
+  },
+  {
+    "name": "beverage",
+    "id": 182,
+    "number_items": 300
+  },
+  {
+    "name": "plants",
+    "id": 203,
+    "number_items": 300
+  },
+  {
+    "name": "everything-else",
+    "id": 215,
+    "number_items": 100
+  }
+]

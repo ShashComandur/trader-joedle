@@ -75,6 +75,7 @@
 		for (const hint of hints) {
 			ret += hint + '\n';
 		}
+		ret += 'https://trader-joedle.vercel.app' + '\n';
 		return ret;
 	}
 
@@ -113,6 +114,7 @@
 			class="bg-crimson uppercase text-off-white font-lato w-40 rounded-md"
 			id="copy-button"
 			use:copy={score}
+			on:click={() => toast.push('Score copied to clipboard.')}
 		>
 			Share Score
 		</button>
