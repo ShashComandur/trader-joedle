@@ -113,6 +113,7 @@
 			class="bg-crimson uppercase text-off-white font-lato w-40 rounded-md"
 			id="copy-button"
 			use:copy={score}
+			on:click={() => toast.push('Score copied to clipboard.')}
 		>
 			Share Score
 		</button>
