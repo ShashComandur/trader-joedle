@@ -22,7 +22,8 @@
 	const quantity = data.amount + ' ' + data.unit;
 	const date = data.date;
 	const game_number = data.game_number;
-	const product = { name, price, img, quantity, date, game_number };
+	const item_characteristics = data.item_characteristics;
+	const product = { name, price, img, quantity, date, game_number, item_characteristics };
 
 	// game information
 	let current_guess, current_hint, inputField;
@@ -36,7 +37,7 @@
 	// TODO: move to `src/lib/game/game_functions.ts`
 	function format_price(raw_guess: number) {
 		if (Number.isInteger(raw_guess)) {
-			return raw_guess.toString();
+			return raw_guess.toString() + '.00';
 		}
 		const formatted = raw_guess.toFixed(2);
 		const decimalIndex = formatted.indexOf('.'); // Ensure two decimal places

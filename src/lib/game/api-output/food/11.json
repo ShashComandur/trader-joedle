@@ -1,0 +1,1108 @@
+{
+    "data": {
+        "products": {
+            "items": [
+                {
+                    "sku": "058114",
+                    "item_title": "Organic Coconut Aminos Seasoning Sauce",
+                    "primary_image": "/content/dam/trjo/products/m20405/58114.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20405/58114.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20405/58114.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20405/58114.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20405/58114.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20405/58114.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20405/58114.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Organic Coconut Aminos\",\"srcOriginal\":\"/content/dam/trjo/products/m20405/58114.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 8.5,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.99",
+                    "fun_tags": [
+                        "Pour It On",
+                        "The \"X\" Factor",
+                        "Unexpected"
+                    ],
+                    "item_characteristics": [
+                        "Gluten Free",
+                        "Organic",
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "058304",
+                    "item_title": "Organic Hearty Minestrone Soup",
+                    "primary_image": "/content/dam/trjo/products/m20501/58304.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20501/58304.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20501/58304.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20501/58304.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20501/58304.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20501/58304.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20501/58304.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20501/58304.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 20,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 4.69,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "4.69",
+                    "fun_tags": [
+                        "Cold Front",
+                        "Rain or Shine",
+                        "Yes!"
+                    ],
+                    "item_characteristics": [
+                        "Gluten Free",
+                        "Organic",
+                        "Vegan"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "066493",
+                    "item_title": "Olive & Herbs Mixed Nuts",
+                    "primary_image": "/content/dam/trjo/products/m21003/66493.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m21003/66493.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m21003/66493.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m21003/66493.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21003/66493.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21003/66493.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m21003/66493.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Olive & Herbs Mixed Nuts\",\"srcOriginal\":\"/content/dam/trjo/products/m21003/66493.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 10,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 4.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "4.99",
+                    "fun_tags": [
+                        "Cheese Board",
+                        "Desk Drawer",
+                        "Finger Food"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "055691",
+                    "item_title": "Scandinavian Swimmers",
+                    "primary_image": "/content/dam/trjo/products/m21002/55691.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m21002/55691.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m21002/55691.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m21002/55691.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21002/55691.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21002/55691.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m21002/55691.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m21002/55691.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 14,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.49",
+                    "fun_tags": [
+                        "Backpack Ready",
+                        "Desk Drawer",
+                        "Midday Snacks"
+                    ],
+                    "item_characteristics": [
+                        "Gluten Free",
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "063486",
+                    "item_title": "Organic Kansas City Style BBQ Sauce",
+                    "primary_image": "/content/dam/trjo/products/m20402/63486.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20402/63486.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20402/63486.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20402/63486.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20402/63486.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20402/63486.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20402/63486.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Organic Kansas City Style BBQ Sauce\",\"srcOriginal\":\"/content/dam/trjo/products/m20402/63486.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 19,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.99",
+                    "fun_tags": [
+                        "Pour It On",
+                        "Fire Up The Grill"
+                    ],
+                    "item_characteristics": [
+                        "Kosher",
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "063353",
+                    "item_title": "Organic Toasted Sesame Dressing",
+                    "primary_image": "/content/dam/trjo/products/m20405/63353.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20405/63353.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20405/63353.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20405/63353.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20405/63353.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20405/63353.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20405/63353.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20405/63353.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 12,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "Pour It On"
+                    ],
+                    "item_characteristics": [
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "063475",
+                    "item_title": "Everything Ciabatta Rolls",
+                    "primary_image": "/content/dam/trjo/products/m20102/63475.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20102/63475.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20102/63475.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20102/63475.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20102/63475.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20102/63475.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20102/63475.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Everything Ciabatta Rolls\",\"srcOriginal\":\"/content/dam/trjo/products/m20102/63475.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 14.1,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.49",
+                    "fun_tags": [
+                        "Rain or Shine",
+                        "Cut The Mustard"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "060414",
+                    "item_title": "Dark Chocolate Orange Sticks",
+                    "primary_image": "/content/dam/trjo/products/m21002/60414.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m21002/60414.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m21002/60414.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m21002/60414.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21002/60414.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21002/60414.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m21002/60414.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m21002/60414.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 10,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.69,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.69",
+                    "fun_tags": [
+                        "Backpack Ready"
+                    ],
+                    "item_characteristics": [
+                        "Gluten Free",
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "060556",
+                    "item_title": "Chevre with Honey",
+                    "primary_image": "/content/dam/trjo/products/m20203/60556.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20203/60556.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20203/60556.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20203/60556.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20203/60556.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20203/60556.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20203/60556.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20203/60556.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 5,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.29,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.29",
+                    "fun_tags": [
+                        "Cheese Board",
+                        "Stuff of Dreams"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "069808",
+                    "item_title": "Organic Stone Ground Yellow Corn Taco Shells",
+                    "primary_image": "/content/dam/trjo/products/m20905/69808.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20905/69808.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20905/69808.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20905/69808.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20905/69808.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20905/69808.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20905/69808.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20905/69808.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 5.5,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.49",
+                    "fun_tags": [
+                        "Dinner Hack"
+                    ],
+                    "item_characteristics": [
+                        "Gluten Free",
+                        "Kosher",
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "066804",
+                    "item_title": "Everything But The Elote Seasoning Blend",
+                    "primary_image": "/content/dam/trjo/products/m20906/66804.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20906/66804.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20906/66804.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20906/66804.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20906/66804.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20906/66804.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20906/66804.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20906/66804.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 2.3,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 1.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "1.99",
+                    "fun_tags": [
+                        "Fire Up The Grill"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "065967",
+                    "item_title": "Cuban Style Citrusy Garlic Seasoning Blend",
+                    "primary_image": "/content/dam/trjo/products/m20906/65967.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20906/65967.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20906/65967.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20906/65967.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20906/65967.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20906/65967.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20906/65967.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20906/65967.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 2.25,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.29,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.29",
+                    "fun_tags": [
+                        "Fire Up The Grill"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "068174",
+                    "item_title": "Vegan Caesar Dressing",
+                    "primary_image": "/content/dam/trjo/products/m20405/68174.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20405/68174.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20405/68174.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20405/68174.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20405/68174.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20405/68174.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20405/68174.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20405/68174.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 11,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "Pour It On",
+                        "Alfresco Dining"
+                    ],
+                    "item_characteristics": [
+                        "Vegan"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "097897",
+                    "item_title": "Chicken-less Mandarin Orange Morsels",
+                    "primary_image": "/content/dam/trjo/products/m20602/97897.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20602/97897.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20602/97897.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20602/97897.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20602/97897.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20602/97897.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20602/97897.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20602/97897.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 9.25,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.79,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.79",
+                    "fun_tags": [
+                        "Yes!"
+                    ],
+                    "item_characteristics": [
+                        "Kosher",
+                        "Vegan"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "069082",
+                    "item_title": "Everything But The Bagel Seasoned Potato Chips",
+                    "primary_image": "/content/dam/trjo/products/m21001/69082.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m21001/69082.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m21001/69082.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m21001/69082.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21001/69082.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21001/69082.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m21001/69082.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m21001/69082.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 7,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.99",
+                    "fun_tags": [
+                        "Unexpected",
+                        "Game Night"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "065191",
+                    "item_title": "Shredded Unexpected Cheddar Cheese",
+                    "primary_image": "/content/dam/trjo/products/m20201/65191.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20201/65191.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20201/65191.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20201/65191.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20201/65191.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20201/65191.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20201/65191.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20201/65191.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 8,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 4.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "4.99",
+                    "fun_tags": [
+                        "Unexpected",
+                        "Time-pressed"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "068006",
+                    "item_title": "Just The Lobsters",
+                    "primary_image": "/content/dam/trjo/products/m21002/68006.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m21002/68006.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m21002/68006.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m21002/68006.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21002/68006.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21002/68006.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m21002/68006.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m21002/68006.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 4,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 1.29,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "1.29",
+                    "fun_tags": [
+                        "Unexpected"
+                    ],
+                    "item_characteristics": [
+                        "Gluten Free",
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "014626",
+                    "item_title": "Classic English Muffins",
+                    "primary_image": "/content/dam/trjo/products/m20102/14626.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20102/14626.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20102/14626.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20102/14626.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20102/14626.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20102/14626.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20102/14626.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Classic English Muffins\",\"srcOriginal\":\"/content/dam/trjo/products/m20102/14626.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 12,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 1.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "1.99",
+                    "fun_tags": [
+                        "Rise & Shine"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "062955",
+                    "item_title": "Outside-In Stuffed Gnocchi",
+                    "primary_image": "/content/dam/trjo/products/m20602/62955.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20602/62955.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20602/62955.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20602/62955.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20602/62955.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20602/62955.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20602/62955.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20602/62955.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 16,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.49",
+                    "fun_tags": [
+                        "Unexpected"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "062823",
+                    "item_title": "Cuban Style Citrus Garlic Bowl",
+                    "primary_image": "/content/dam/trjo/products/m20602/62823.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20602/62823.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20602/62823.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20602/62823.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20602/62823.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20602/62823.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20602/62823.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20602/62823.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 11,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "Time-pressed"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "066094",
+                    "item_title": "Peanut and Crispy Noodle Salad Kit",
+                    "primary_image": "/content/dam/trjo/products/m20501/66094.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20501/66094.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20501/66094.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20501/66094.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20501/66094.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20501/66094.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 14.5,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "Dinner Hack",
+                        "Family Style"
+                    ],
+                    "item_characteristics": [
+                        "Vegan"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "070378",
+                    "item_title": "Avocado Spray Oil",
+                    "primary_image": "/content/dam/trjo/products/m20904/70378.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20904/70378.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20904/70378.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20904/70378.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20904/70378.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20904/70378.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20904/70378.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Avocado Oil Spray\",\"srcOriginal\":\"/content/dam/trjo/products/m20904/70378.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 5,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "Yes!"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "067751",
+                    "item_title": "Twisted Cookie Sticks",
+                    "primary_image": "/content/dam/trjo/products/m21002/67751.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m21002/67751.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m21002/67751.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m21002/67751.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21002/67751.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21002/67751.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m21002/67751.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Twisted Cookie Sticks Dipped in Belgian Dark Chocolate\",\"srcOriginal\":\"/content/dam/trjo/products/m21002/67751.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 2.65,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 1.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "1.99",
+                    "fun_tags": [
+                        "Backpack Ready",
+                        "Midday Snacks"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "055970",
+                    "item_title": "Mixed Mushroom & Spinach Quiche",
+                    "primary_image": "/content/dam/trjo/products/m20602/55970.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20602/55970.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20602/55970.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20602/55970.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20602/55970.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20602/55970.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20602/55970.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20602/55970.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 6.17,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.99",
+                    "fun_tags": [
+                        "Brunch All Day"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "097208",
+                    "item_title": "Plantain Chips",
+                    "primary_image": "/content/dam/trjo/products/m21001/97208.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m21001/97208.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m21001/97208.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m21001/97208.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21001/97208.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21001/97208.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m21001/97208.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m21001/97208.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 6,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 1.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "1.99",
+                    "fun_tags": [
+                        "Desk Drawer",
+                        "Midday Snacks"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "056309",
+                    "item_title": "Honey Walnut Shrimp",
+                    "primary_image": "/content/dam/trjo/products/m20602/56309.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20602/56309.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20602/56309.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20602/56309.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20602/56309.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20602/56309.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20602/56309.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20602/56309.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 12.75,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 6.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "6.99",
+                    "fun_tags": [
+                        "In Lieu of Pizza"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "060255",
+                    "item_title": "Nori Komi Furikake Japanese Multi-Purpose Seasoning",
+                    "primary_image": "/content/dam/trjo/products/m20906/60255.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20906/60255.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20906/60255.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20906/60255.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20906/60255.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20906/60255.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20906/60255.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20906/60255.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 1.95,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.99",
+                    "fun_tags": [
+                        "Feeling Adventurous"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "061534",
+                    "item_title": "Mini Vegetable Samosas",
+                    "primary_image": "/content/dam/trjo/products/m20601/61534.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20601/61534.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20601/61534.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20601/61534.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20601/61534.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20601/61534.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20601/61534.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20601/61534.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 8.5,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "Finger Food",
+                        "Game Night"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "061673",
+                    "item_title": "Chocolate Milk made with Fair Trade Cocoa",
+                    "primary_image": "/content/dam/trjo/products/m20301/61673.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20301/61673.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20301/61673.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20301/61673.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20301/61673.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20301/61673.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20301/61673.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Chocolate Milk made with Fair Trade Cocoa\",\"srcOriginal\":\"/content/dam/trjo/products/m20301/61673.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 64,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "A Long Finish",
+                        "Stuff of Dreams"
+                    ],
+                    "item_characteristics": [
+                        "Fair Trade",
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "061710",
+                    "item_title": "Organic Yellow Lentil & Brown Rice Spaghetti",
+                    "primary_image": "/content/dam/trjo/products/m20901/61710.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20901/61710.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20901/61710.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20901/61710.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20901/61710.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20901/61710.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20901/61710.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Organic Yellow Lentil & Brown Rice Pasta\",\"srcOriginal\":\"/content/dam/trjo/products/m20901/61710.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 12,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.49",
+                    "fun_tags": [
+                        "Rain or Shine"
+                    ],
+                    "item_characteristics": [
+                        "Gluten Free",
+                        "Kosher",
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "068470",
+                    "item_title": "Unexpected Cheddar Broccoli Soup",
+                    "primary_image": "/content/dam/trjo/products/m20501/68470.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20501/68470.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20501/68470.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20501/68470.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20501/68470.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20501/68470.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20501/68470.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20501/68470.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 20,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 4.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "4.99",
+                    "fun_tags": [
+                        "Cold Front",
+                        "Rain or Shine"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "058641",
+                    "item_title": "Sweet Pull Apart Aloha Rolls",
+                    "primary_image": "/content/dam/trjo/products/m20102/58641.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20102/58641.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20102/58641.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20102/58641.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20102/58641.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20102/58641.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20102/58641.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe’s Sweet Pull Apart Aloha Rolls\",\"srcOriginal\":\"/content/dam/trjo/products/m20102/58641.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 12,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.49",
+                    "fun_tags": [
+                        "Cut The Mustard",
+                        "Effortless Entertaining"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "063991",
+                    "item_title": "Chile & Garlic Cashews",
+                    "primary_image": "/content/dam/trjo/products/m21003/63991.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m21003/63991.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m21003/63991.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m21003/63991.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21003/63991.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m21003/63991.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m21003/63991.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m21003/63991.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 8,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "Crack a Beer",
+                        "Desk Drawer",
+                        "Mouth On Fire"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "060577",
+                    "item_title": "Gone Berry Crazy!",
+                    "primary_image": "/content/dam/trjo/products/m20604/60577.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20604/60577.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20604/60577.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20604/60577.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20604/60577.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20604/60577.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20604/60577.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20604/60577.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 5.3,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.79,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.79",
+                    "fun_tags": [
+                        "Heat Wave"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "065259",
+                    "item_title": "Steamed Pork & Ginger Soup Dumplings",
+                    "primary_image": "/content/dam/trjo/products/m20602/65259.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20602/65259.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20602/65259.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20602/65259.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20602/65259.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20602/65259.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20602/65259.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m20602/65259.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 6,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.49",
+                    "fun_tags": [
+                        "Welcoming",
+                        "In Lieu of Pizza"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                }
+            ],
+            "__typename": "Products"
+        }
+    }
+}

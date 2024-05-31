@@ -2,6 +2,9 @@
 	export let product: Object;
 	export let game_state: number;
 	import { fly } from 'svelte/transition';
+	import Badge from './Badge.svelte';
+
+	const item_characteristics = product.item_characteristics;
 </script>
 
 <div
@@ -15,9 +18,11 @@
 			>
 				Trader Joedle #{product.game_number}
 			</p>
-			<h5 class="mb-5 text-2xl font-bold text-gray-900 dark:text-white">
+			<h5 class="mb-2 text-2xl font-bold text-gray-900 dark:text-white">
 				{product.name}
 			</h5>
+
+			<Badge {item_characteristics} />
 
 			<div class="flex justify-end">
 				{#if game_state == 1}
