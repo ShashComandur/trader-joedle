@@ -1,5 +1,7 @@
 <script lang="ts">
 	export let product: Object;
+	export let game_state: number;
+	import { fly } from 'svelte/transition';
 </script>
 
 <div
@@ -18,7 +20,12 @@
 			</h5>
 
 			<div class="flex justify-end">
-				<div class="font-bold text-3xl">???</div>
+				{#if game_state == 1}
+					<div class="font-bold text-3xl">???</div>
+				{/if}
+				{#if game_state !== 1}
+					<div class="font-bold text-3xl" transition:fly={{ x: -50 }}>${product.price}</div>
+				{/if}
 				&#8200/&#8200
 				<div class="font-lato">{product.quantity}</div>
 			</div>

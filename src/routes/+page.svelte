@@ -32,8 +32,34 @@
 	let score = '';
 	$: already_guessed = false;
 
+	// probably a better way to do this
+	// TODO: move to `src/lib/game/game_functions.ts`
+	function format_price(raw_guess: number) {
+		if (Number.isInteger(raw_guess)) {
+			return raw_guess.toString();
+		}
+		const formatted = raw_guess.toFixed(2);
+		const decimalIndex = formatted.indexOf('.'); // Ensure two decimal places
+		if (decimalIndex === -1) {
+			return formatted + '.00';
+		} else if (formatted.length - decimalIndex - 1 < 2) {
+			return formatted + '0';
+		} else {
+			return formatted;
+		}
+	}
+
 	// guess handler
-	function handle_guess(guess: number) {
+	function handle_guess(raw_guess: number) {
+		// check if guess is invalid
+		let valid_guess = /\d|\./;
+		if (!valid_guess.test(raw_guess)) {
+			toast.push('Invalid input. Try again!');
+			return;
+		}
+
+		const guess = format_price(raw_guess); // format guess with two fixed decimal places
+
 		// check if already submitted
 		already_guessed = false;
 		if (guesses.some((obj) => obj.guess === guess)) {
@@ -43,12 +69,6 @@
 		}
 
 		if (!already_guessed) {
-			let valid_guess = /\d|\./;
-			if (!valid_guess.test(guess)) {
-				toast.push('Invalid input. Try again!');
-				return;
-			}
-
 			// get object of check win information
 			let check_win_output = check_win(guesses, guess, price);
 
@@ -74,7 +94,7 @@
 	}
 
 	// returns a formatted copy-able score
-	// should probably go in game_functions.ts
+	// TODO: move to `src/lib/game/game_functions.ts`
 	function format_score() {
 		let ret = 'Trader Joedle #' + game_number + '\n';
 		ret += hints.length + '/6' + '\n';
@@ -93,8 +113,11 @@
 	};
 </script>
 
-<ProductInfo {product} />
+<!-- ProductInfo card and toast declaration -->
+<ProductInfo {product} {game_state} />
+<SvelteToast />
 
+<!-- Guesses list, with input and copy score (depending on game state) -->
 <div class="pt-5 p-3">
 	<Guesses {guesses} />
 
@@ -126,5 +149,3 @@
 		</button>
 	{/if}
 </div>
-
-<SvelteToast />
