@@ -8,8 +8,5 @@ node_modules
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-src/lib/game/api_output/food
-src/lib/game/api_output/plants
-src/lib/game/api_output/beverage
-src/lib/game/api_output/everything-else
+src/lib/game/api_output/*
 src/lib/game/merged.json
