@@ -1,0 +1,219 @@
+{
+    "data": {
+        "products": {
+            "items": [
+                {
+                    "sku": "069638",
+                    "item_title": "Premium Monstera",
+                    "primary_image": "/content/dam/trjo/products/m4/69638.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m4/69638.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m4/69638.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m4/69638.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m4/69638.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m4/69638.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m4/69638.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Premium Monstera\",\"srcOriginal\":\"/content/dam/trjo/products/m4/69638.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 1,
+                    "sales_uom_description": "Each",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 12.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "12.99",
+                    "fun_tags": [
+                        "Giftable",
+                        "Treat Yourself"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "055946",
+                    "item_title": "Phalaenopsis Orchid, Assorted Colors",
+                    "primary_image": "/content/dam/trjo/products/m4/55946.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m4/55946.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m4/55946.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m4/55946.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m4/55946.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m4/55946.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m4/55946.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Phalaenopsis Orchid\",\"srcOriginal\":\"/content/dam/trjo/products/m4/55946.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 1,
+                    "sales_uom_description": "Each",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 0,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "14.99",
+                    "fun_tags": [
+                        "Giftable",
+                        "Treat Yourself"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "067425",
+                    "item_title": "Seasonal Bouquet, Large",
+                    "primary_image": "/content/dam/trjo/products/m4/67425.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m4/67425.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Seasonal Bouquet, Lg\",\"srcOriginal\":\"/content/dam/trjo/products/m4/67425.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 1,
+                    "sales_uom_description": "Each",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 0,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "12.99",
+                    "fun_tags": [
+                        "Giftable",
+                        "Treat Yourself",
+                        "Welcoming"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "041580",
+                    "item_title": "Peonies - 5 Stems",
+                    "primary_image": "/content/dam/trjo/products/m4/41580.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m4/41580.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Peony 5 Stems\",\"srcOriginal\":\"/content/dam/trjo/products/m4/41580.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 1,
+                    "sales_uom_description": "Each",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 9.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "9.99",
+                    "fun_tags": null,
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "081022",
+                    "item_title": "Eucalyptus",
+                    "primary_image": "/content/dam/trjo/products/m4/81022.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m4/81022.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Eucalyptus\",\"srcOriginal\":\"/content/dam/trjo/products/m4/81022.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 1,
+                    "sales_uom_description": "Each",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "Giftable",
+                        "Treat Yourself",
+                        "Welcoming"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "062676",
+                    "item_title": "Hydrangea 3-stem",
+                    "primary_image": "/content/dam/trjo/products/m4/62676.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m4/62676.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Hydrangea 3-stem\",\"srcOriginal\":\"/content/dam/trjo/products/m4/62676.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 1,
+                    "sales_uom_description": "Each",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 5.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "5.99",
+                    "fun_tags": [
+                        "Giftable",
+                        "Treat Yourself"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "062535",
+                    "item_title": "Dozen Red Roses",
+                    "primary_image": "/content/dam/trjo/products/m4/62535.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m4/62535.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Dozen Red Roses\",\"srcOriginal\":\"/content/dam/trjo/products/m4/62535.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 1,
+                    "sales_uom_description": "Each",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 9.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "9.99",
+                    "fun_tags": [
+                        "Date Night",
+                        "Giftable",
+                        "Treat Yourself"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                }
+            ],
+            "__typename": "Products"
+        }
+    }
+}

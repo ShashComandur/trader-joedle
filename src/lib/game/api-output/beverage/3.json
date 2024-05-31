@@ -1,0 +1,1429 @@
+{
+    "data": {
+        "products": {
+            "items": [
+                {
+                    "sku": "170308",
+                    "item_title": "Sparkling Green Tea with Pineapple",
+                    "primary_image": "/content/dam/trjo/products/m305/70308.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m305/70308.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m305/70308.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m305/70308.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m305/70308.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m305/70308.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m305/70308.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Sparkling Green Tea with Pineapple Juice\",\"srcOriginal\":\"/content/dam/trjo/products/m305/70308.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 8.45,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "A Long Finish",
+                        "Glass Half Full",
+                        "Heat Wave"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "066572",
+                    "item_title": "Organic Orange Strawberry Banana Juice",
+                    "primary_image": "/content/dam/trjo/products/m301/66572.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m301/66572.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m301/66572.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m301/66572.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/66572.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/66572.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m301/66572.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m301/66572.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 52,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 4.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "4.49",
+                    "fun_tags": [
+                        "Brunch All Day",
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": [
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "158268",
+                    "item_title": "Boatswain Double I.P.A.",
+                    "primary_image": "/content/dam/trjo/products/m306/beer/58268.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m306/beer/58268.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m306/beer/58268.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m306/beer/58268.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/beer/58268.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/beer/58268.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m306/beer/58268.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m306/beer/58268.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 12,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 4.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "5.99",
+                    "fun_tags": [
+                        "Crack a Beer"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "165408",
+                    "item_title": "Blueberry Lemonade Sparkling Water",
+                    "primary_image": "/content/dam/trjo/products/m302/65408.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m302/65408.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m302/65408.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m302/65408.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m302/65408.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m302/65408.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m302/65408.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Blueberry Lemonade Sparkling Water\",\"srcOriginal\":\"/content/dam/trjo/products/m302/65408.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 12,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.49",
+                    "fun_tags": [
+                        "Bibulous",
+                        "Glass Half Full",
+                        "Heat Wave"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "063980",
+                    "item_title": "Organic Fair Trade Wake Up Blend Ground Coffee",
+                    "primary_image": "/content/dam/trjo/products/m304/63980.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m304/63980.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m304/63980.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m304/63980.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/63980.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/63980.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m304/63980.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"63980 Org FT Wake Up Blend Ground Coffee\",\"srcOriginal\":\"/content/dam/trjo/products/m304/63980.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 14,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 7.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "7.99",
+                    "fun_tags": [
+                        "Rise & Shine"
+                    ],
+                    "item_characteristics": [
+                        "Fair Trade",
+                        "Kosher",
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "098530",
+                    "item_title": "Organic Fair Trade Wake Up Blend Coffee",
+                    "primary_image": "/content/dam/trjo/products/m304/98530.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m304/98530.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m304/98530.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m304/98530.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/98530.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/98530.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m304/98530.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe’s Organic Fair Trade Wake Up Blend Coffee\",\"srcOriginal\":\"/content/dam/trjo/products/m304/98530.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 28,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 16.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "16.99",
+                    "fun_tags": [
+                        "Rise & Shine"
+                    ],
+                    "item_characteristics": [
+                        "Fair Trade",
+                        "Kosher",
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "057159",
+                    "item_title": "Matcha Green Tea Powder",
+                    "primary_image": "/content/dam/trjo/products/m304/57159.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m304/57159.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m304/57159.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 0.37,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 7.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "7.49",
+                    "fun_tags": [
+                        "Feeling Adventurous",
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "168472",
+                    "item_title": "Watermelon Lemonade Sparkling Water",
+                    "primary_image": "/content/dam/trjo/products/m302/68472.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m302/68472.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m302/68472.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m302/68472.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m302/68472.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m302/68472.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m302/68472.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Sparkling Water Watermelon Lemonade\",\"srcOriginal\":\"/content/dam/trjo/products/m302/68472.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 12,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.49",
+                    "fun_tags": [
+                        "Bibulous",
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "063356",
+                    "item_title": "Cold Pressed Pineapple Juice",
+                    "primary_image": "/content/dam/trjo/products/m301/63356.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m301/63356.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m301/63356.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m301/63356.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/63356.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/63356.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m301/63356.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Cold Pressed Pineapple Juice\",\"srcOriginal\":\"/content/dam/trjo/products/m301/63356.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 12,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.99",
+                    "fun_tags": [
+                        "Bibulous",
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "071987",
+                    "item_title": "Spicy Mango Lemonade",
+                    "primary_image": "/content/dam/trjo/products/m301/71987.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m301/71987.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m301/71987.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m301/71987.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/71987.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/71987.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m301/71987.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Spicy Mango Lemonade\",\"srcOriginal\":\"/content/dam/trjo/products/m301/71987.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 32,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.29,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.29",
+                    "fun_tags": [
+                        "Bibulous",
+                        "Glass Half Full",
+                        "Heat Wave",
+                        "Mouth On Fire"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "051854",
+                    "item_title": "Watermelon Cucumber Cooler",
+                    "primary_image": "/content/dam/trjo/products/m301/51854.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m301/51854.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m301/51854.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m301/51854.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/51854.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/51854.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m301/51854.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Watermelon Cucumber Cooler\",\"srcOriginal\":\"/content/dam/trjo/products/m301/51854.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 64,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.49",
+                    "fun_tags": [
+                        "Alfresco Dining",
+                        "Glass Half Full",
+                        "Heat Wave",
+                        "Picnic"
+                    ],
+                    "item_characteristics": [
+                        "Kosher",
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "096713",
+                    "item_title": "Fresh Squeezed Limeade",
+                    "primary_image": "/content/dam/trjo/products/m301/96713.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m301/96713.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m301/96713.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m301/96713.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/96713.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/96713.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m301/96713.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m301/96713.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 32,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.49",
+                    "fun_tags": [
+                        "Bibulous",
+                        "Glass Half Full",
+                        "Heat Wave"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "065333",
+                    "item_title": "Non-Dairy Oat Beverage",
+                    "primary_image": "/content/dam/trjo/products/m303/65333.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m303/65333.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m303/65333.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m303/65333.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m303/65333.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m303/65333.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m303/65333.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Non-Dairy Oat Beverage\",\"srcOriginal\":\"/content/dam/trjo/products/m303/65333.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 64,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": [
+                        "Dairy Free",
+                        "Gluten Free",
+                        "Kosher",
+                        "Vegan"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "098693",
+                    "item_title": "Picton Bay Sauvignon Blanc",
+                    "primary_image": "/content/dam/trjo/products/m306/wine/98693.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m306/wine/98693.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m306/wine/98693.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m306/wine/98693.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/wine/98693.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/wine/98693.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m306/wine/98693.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Picton Bay Sauvignon Blanc\",\"srcOriginal\":\"/content/dam/trjo/products/m306/wine/98693.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 750,
+                    "sales_uom_description": "mL",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 7.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "7.99",
+                    "fun_tags": [
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "048838",
+                    "item_title": "Villa Cerrina Montepulciano D'Abruzzo",
+                    "primary_image": "/content/dam/trjo/products/m306/wine/48838.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m306/wine/48838.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m306/wine/48838.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m306/wine/48838.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/wine/48838.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/wine/48838.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m306/wine/48838.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Villa Cerrina Montepulciano dAbruzzo\",\"srcOriginal\":\"/content/dam/trjo/products/m306/wine/48838.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 750,
+                    "sales_uom_description": "mL",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 5.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "5.99",
+                    "fun_tags": [
+                        "Bibulous",
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "087390",
+                    "item_title": "La Ferme Julien Rosé",
+                    "primary_image": "/content/dam/trjo/products/m306/wine/87390.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m306/wine/87390.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m306/wine/87390.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m306/wine/87390.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/wine/87390.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/wine/87390.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m306/wine/87390.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"La Ferme Julien Rosé\",\"srcOriginal\":\"/content/dam/trjo/products/m306/wine/87390.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 750,
+                    "sales_uom_description": "mL",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 5.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "5.99",
+                    "fun_tags": [
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "070780",
+                    "item_title": "Love, Olivia Peach Wine",
+                    "primary_image": "/content/dam/trjo/products/m306/wine/70780.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m306/wine/70780.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m306/wine/70780.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m306/wine/70780.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/wine/70780.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/wine/70780.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m306/wine/70780.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Love, Olivia Peach Wine\",\"srcOriginal\":\"/content/dam/trjo/products/m306/wine/70780.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 750,
+                    "sales_uom_description": "mL",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "4.99",
+                    "fun_tags": [
+                        "Bibulous",
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "070782",
+                    "item_title": "Love, Olivia Watermelon Wine",
+                    "primary_image": "/content/dam/trjo/products/m306/wine/70782.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m306/wine/70782.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m306/wine/70782.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m306/wine/70782.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/wine/70782.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/wine/70782.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m306/wine/70782.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Love, Olivia Watermelon Wine\",\"srcOriginal\":\"/content/dam/trjo/products/m306/wine/70782.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 750,
+                    "sales_uom_description": "mL",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "4.99",
+                    "fun_tags": [
+                        "Bibulous",
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "060338",
+                    "item_title": "Coconut Cold Brew Coffee Concentrate",
+                    "primary_image": "/content/dam/trjo/products/m304/60338.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m304/60338.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m304/60338.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m304/60338.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/60338.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/60338.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m304/60338.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Coconut Cold Brew Coffee Concentrate\",\"srcOriginal\":\"/content/dam/trjo/products/m304/60338.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 16,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 5.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "5.99",
+                    "fun_tags": [
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "065256",
+                    "item_title": "Single Origin Organic Coconut Water",
+                    "primary_image": "/content/dam/trjo/products/m302/65256.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m302/65256.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m302/65256.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m302/65256.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m302/65256.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m302/65256.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m302/65256.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Organic Coconut Water Single Origin\",\"srcOriginal\":\"/content/dam/trjo/products/m302/65256.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 10,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.29,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.29",
+                    "fun_tags": [
+                        "Backpack Ready",
+                        "Heat Wave"
+                    ],
+                    "item_characteristics": [
+                        "Kosher",
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "068172",
+                    "item_title": "Fresh Squeezed Lemonade",
+                    "primary_image": "/content/dam/trjo/products/m301/68172.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m301/68172.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m301/68172.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m301/68172.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/68172.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/68172.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m301/68172.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Fresh Squeezed Lemonade\",\"srcOriginal\":\"/content/dam/trjo/products/m301/68172.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 52,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "Glass Half Full",
+                        "Heat Wave"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "156933",
+                    "item_title": "100% Mango Juice from Carabao Mangoes",
+                    "primary_image": "/content/dam/trjo/products/m301/56933.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m301/56933.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m301/56933.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m301/56933.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/56933.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/56933.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m301/56933.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m301/56933.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 8.45,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "Backpack Ready"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "069653",
+                    "item_title": "Honey Moon Viognier",
+                    "primary_image": "/content/dam/trjo/products/m306/wine/69653.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m306/wine/69653.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m306/wine/69653.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m306/wine/69653.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/wine/69653.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/wine/69653.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m306/wine/69653.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Honey Moon Viognier\",\"srcOriginal\":\"/content/dam/trjo/products/m306/wine/69653.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 750,
+                    "sales_uom_description": "mL",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 5.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "5.99",
+                    "fun_tags": [
+                        "Bibulous",
+                        "Alfresco Dining",
+                        "Cheese Board"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "064431",
+                    "item_title": "Organic Sparkling Ginger + Lemon Apple Cider Vinegar Beverage",
+                    "primary_image": "/content/dam/trjo/products/m305/64431.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m305/64431.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m305/64431.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m305/64431.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m305/64431.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m305/64431.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m305/64431.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Organic Sparkling Ginger Lemon ACV\",\"srcOriginal\":\"/content/dam/trjo/products/m305/64431.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 12,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 1.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "1.99",
+                    "fun_tags": [
+                        "Desk Drawer",
+                        "Glass Half Full",
+                        "Heat Wave",
+                        "Picnic"
+                    ],
+                    "item_characteristics": [
+                        "Kosher",
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "064432",
+                    "item_title": "Organic Sparkling Lemon + Strawberry Apple Cider Vinegar Beverage",
+                    "primary_image": "/content/dam/trjo/products/m305/64432.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m305/64432.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m305/64432.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m305/64432.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m305/64432.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m305/64432.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m305/64432.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Organic Sparkling Lemon Strawberry ACV\",\"srcOriginal\":\"/content/dam/trjo/products/m305/64432.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 12,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 1.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "1.99",
+                    "fun_tags": [
+                        "Desk Drawer",
+                        "Glass Half Full",
+                        "Heat Wave",
+                        "Picnic"
+                    ],
+                    "item_characteristics": [
+                        "Kosher",
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "168349",
+                    "item_title": "Sparkling Black Tea with Peach Juice Beverage",
+                    "primary_image": "/content/dam/trjo/products/m305/68349.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m305/68349.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m305/68349.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m305/68349.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m305/68349.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m305/68349.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m305/68349.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"68349.png\",\"srcOriginal\":\"/content/dam/trjo/products/m305/68349.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 8.45,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "Heat Wave",
+                        "Picnic",
+                        "Desk Drawer"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "068189",
+                    "item_title": "Organic Blood Orange Rooibos Herbal Tea Blend",
+                    "primary_image": "/content/dam/trjo/products/m304/68189.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m304/68189.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m304/68189.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m304/68189.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/68189.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/68189.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m304/68189.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m304/68189.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 20,
+                    "sales_uom_description": "Bag",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.99",
+                    "fun_tags": [
+                        "Welcoming",
+                        "Rise & Shine"
+                    ],
+                    "item_characteristics": [
+                        "Kosher",
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "063482",
+                    "item_title": "Cold Brew Coffee Bags",
+                    "primary_image": "/content/dam/trjo/products/m304/63482.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m304/63482.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m304/63482.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m304/63482.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/63482.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/63482.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m304/63482.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Cold Brew Coffee Bags\",\"srcOriginal\":\"/content/dam/trjo/products/m304/63482.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 4,
+                    "sales_uom_description": "Bag",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 7.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "7.99",
+                    "fun_tags": [
+                        "Alfresco Dining",
+                        "Glass Half Full",
+                        "Rise & Shine",
+                        "Yes!"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "058823",
+                    "item_title": "Organic Carrot Turmeric Juice Blend",
+                    "primary_image": "/content/dam/trjo/products/m301/58823.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m301/58823.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m301/58823.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m301/58823.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/58823.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/58823.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m301/58823.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m301/58823.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 32,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 4.79,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "4.79",
+                    "fun_tags": [
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": [
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "061942",
+                    "item_title": "Unsweetened Almond, Cashew & Macadamia Nut Beverage",
+                    "primary_image": "/content/dam/trjo/products/m303/61942.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m303/61942.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m303/61942.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m303/61942.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m303/61942.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m303/61942.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m303/61942.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m303/61942.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 32,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.49",
+                    "fun_tags": [
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": [
+                        "Dairy Free",
+                        "Gluten Free",
+                        "Kosher",
+                        "Vegan"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "062042",
+                    "item_title": "Joe Light Roast Ground Coffee",
+                    "primary_image": "/content/dam/trjo/products/m304/62042.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m304/62042.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m304/62042.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m304/62042.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/62042.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/62042.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m304/62042.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m304/62042.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 14,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 4.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "4.99",
+                    "fun_tags": [
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "062044",
+                    "item_title": "Spiced Chai Black Tea Concentrate",
+                    "primary_image": "/content/dam/trjo/products/m304/62044.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m304/62044.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Spiced Chai Black Tea Concentrate\",\"srcOriginal\":\"/content/dam/trjo/products/m304/62044.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 16,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.79,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.79",
+                    "fun_tags": [
+                        "Glass Half Full",
+                        "Rain or Shine",
+                        "Welcoming"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "062369",
+                    "item_title": "Joe's Decaf Coffee Cups",
+                    "primary_image": "/content/dam/trjo/products/m304/62369.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m304/62369.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m304/62369.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m304/62369.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/62369.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/62369.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m304/62369.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Decaf Coffee Cups\",\"srcOriginal\":\"/content/dam/trjo/products/m304/62369.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 5.08,
+                    "sales_uom_description": "Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 5.29,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "5.29",
+                    "fun_tags": [
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": [
+                        "Kosher"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "057006",
+                    "item_title": "Matcha Green Tea",
+                    "primary_image": "/content/dam/trjo/products/m304/57006.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m304/57006.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m304/57006.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m304/57006.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/57006.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/57006.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m304/57006.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m304/57006.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 8.28,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 1.29,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "1.29",
+                    "fun_tags": [
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "057007",
+                    "item_title": "Golden Oolong Tea",
+                    "primary_image": "/content/dam/trjo/products/m304/57007.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m304/57007.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m304/57007.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m304/57007.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/57007.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/57007.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m304/57007.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m304/57007.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 16.9,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 1.69,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "1.69",
+                    "fun_tags": [
+                        "Glass Half Full",
+                        "Backpack Ready"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "163261",
+                    "item_title": "Sparkling Coconut Water with Yuzu",
+                    "primary_image": "/content/dam/trjo/products/m305/63261.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m305/63261.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m305/63261.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m305/63261.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m305/63261.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m305/63261.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m305/63261.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Sparkling Coconut Water with Yuzu\",\"srcOriginal\":\"/content/dam/trjo/products/m305/63261.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 8.5,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "Picnic",
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "068481",
+                    "item_title": "Absolutely Acerola Juice Shot",
+                    "primary_image": "/content/dam/trjo/products/m301/68481.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m301/68481.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m301/68481.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m301/68481.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/68481.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m301/68481.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m301/68481.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Acerola Juice Shot\",\"srcOriginal\":\"/content/dam/trjo/products/m301/68481.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 2,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 1.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "1.99",
+                    "fun_tags": [
+                        "Rise & Shine"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "062611",
+                    "item_title": "Ready To Drink Cold Brew Coffee",
+                    "primary_image": "/content/dam/trjo/products/m304/62611.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m304/62611.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m304/62611.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 32,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 5.49,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "5.49",
+                    "fun_tags": [
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "062680",
+                    "item_title": "Organic Earl Grey Tea",
+                    "primary_image": "/content/dam/trjo/products/m304/62680.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m304/62680.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m304/62680.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m304/62680.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/62680.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/62680.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m304/62680.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m304/62680.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 20,
+                    "sales_uom_description": "Bag",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.99",
+                    "fun_tags": [
+                        "Glass Half Full",
+                        "Rain or Shine",
+                        "Rise & Shine"
+                    ],
+                    "item_characteristics": [
+                        "Kosher",
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "159714",
+                    "item_title": "Boatswain American I.P.A.",
+                    "primary_image": "/content/dam/trjo/products/m306/beer/59714.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m306/beer/59714.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m306/beer/59714.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m306/beer/59714.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/beer/59714.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/beer/59714.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m306/beer/59714.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m306/beer/59714.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 12,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 4.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "6.49",
+                    "fun_tags": [
+                        "Crack a Beer",
+                        "Heat Wave"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "068188",
+                    "item_title": "Organic Cold Brew Black Tea Concentrate",
+                    "primary_image": "/content/dam/trjo/products/m304/68188.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m304/68188.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m304/68188.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m304/68188.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/68188.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m304/68188.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m304/68188.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"srcOriginal\":\"/content/dam/trjo/products/m304/68188.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 16,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 4.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "4.99",
+                    "fun_tags": [
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": [
+                        "Kosher",
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "162206",
+                    "item_title": "Seltzer Water flavored with Lemon and Ginger Juice",
+                    "primary_image": "/content/dam/trjo/products/m302/62206.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m302/62206.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m302/62206.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m302/62206.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m302/62206.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m302/62206.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m302/62206.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Organic Seltzer Water Lemon & Ginger Juice\",\"srcOriginal\":\"/content/dam/trjo/products/m302/62206.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 12,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.29,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.29",
+                    "fun_tags": [
+                        "Glass Half Full",
+                        "Backpack Ready",
+                        "Desk Drawer"
+                    ],
+                    "item_characteristics": [
+                        "Kosher",
+                        "Organic"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "065148",
+                    "item_title": "Non-Dairy Oat Beverage",
+                    "primary_image": "/content/dam/trjo/products/m303/65148.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m303/65148.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m303/65148.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m303/65148.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m303/65148.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m303/65148.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m303/65148.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Non-Dairy Oat Beverage\",\"srcOriginal\":\"/content/dam/trjo/products/m303/65148.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 32,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 2.79,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "2.79",
+                    "fun_tags": [
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": [
+                        "Kosher",
+                        "Vegan"
+                    ],
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "167582",
+                    "item_title": "Sparkling Strawberry Juice",
+                    "primary_image": "/content/dam/trjo/products/m305/67582.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m305/67582.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m305/67582.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m305/67582.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m305/67582.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m305/67582.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m305/67582.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Sparkling Strawberry Juice\",\"srcOriginal\":\"/content/dam/trjo/products/m305/67582.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 8.45,
+                    "sales_uom_description": "Fl Oz",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "fun_tags": [
+                        "Picnic",
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                },
+                {
+                    "sku": "074557",
+                    "item_title": "Petit Reserve Cabernet Franc Paso Robles 2021",
+                    "primary_image": "/content/dam/trjo/products/m306/wine/74557.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m306/wine/74557.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m306/wine/74557.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m306/wine/74557.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/wine/74557.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m306/wine/74557.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m306/wine/74557.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Petit Reserve Cabernet Franc Paso Robles 2021\",\"srcOriginal\":\"/content/dam/trjo/products/m306/wine/74557.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "sales_size": 750,
+                    "sales_uom_description": "mL",
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 7.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "7.99",
+                    "fun_tags": [
+                        "Bibulous",
+                        "Glass Half Full"
+                    ],
+                    "item_characteristics": null,
+                    "__typename": "SimpleProduct"
+                }
+            ],
+            "__typename": "Products"
+        }
+    }
+}
