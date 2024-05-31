@@ -3,7 +3,7 @@ import games from "$lib/game/games.json";
 const month_names = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 
 function get_todays_game() {
-    const today_date = new Date('6-2-2024');
+    const today_date = new Date('11-19-26');
     today_date.setHours(today_date.getHours() - 4);             // rewind 4 hours, since vercel deployment is in UTC, and the game works in EST
     let month = month_names[today_date.getMonth()].toString()
     let date = today_date.getDate().toString()

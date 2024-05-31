@@ -7,15 +7,15 @@
 	 */
 	function format_characteristics(chars: []) {
 		const color_map = {
-			'Antibiotic Free': 'bg-red-600',
+			'Antibiotic Free': 'bg-red-400',
 			'Dairy Free': 'bg-stone-200',
 			'Fair Trade': 'bg-yellow-300',
 			'Gluten Free': 'bg-pink-300',
-			'Grass Fed': 'bg-lime-700',
+			'Grass Fed': 'bg-lime-400',
 			'Kosher': 'bg-sky-400',
 			'Organic': 'bg-teal-100',
-			'Vegan': 'bg-orange-500',
-			'Vegetarian': 'bg-violet-600'
+			'Vegan': 'bg-orange-400',
+			'Vegetarian': 'bg-violet-400'
 		};
 		let ret = [];
 		for (var char of chars) {
