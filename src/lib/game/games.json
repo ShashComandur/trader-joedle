@@ -13,14 +13,16 @@
         "date": "May 30 2024"
     },
     {
-        "img_path": "/content/dam/trjo/products/m20101/62146.png/jcr:content/renditions/webp-1280.webp",
-        "name": "Gluten Free Multigrain Bread",
-        "price": "4.49",
-        "amount": 15.2,
+        "img_path": "/content/dam/trjo/products/m20303/72392.png/jcr:content/renditions/webp-1280.webp",
+        "name": "Organic Creamy Cashew Cultured Yogurt Alternative, Plain Unsweetened",
+        "price": "4.99",
+        "amount": 24,
         "unit": "Oz",
         "item_characteristics": [
-            "Gluten Free",
-            "Kosher"
+            "Dairy Free",
+            "Kosher",
+            "Organic",
+            "Vegan"
         ],
         "game_number": 0,
         "date": "May 31 2024"
