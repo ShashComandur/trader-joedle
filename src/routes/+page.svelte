@@ -115,38 +115,41 @@
 </script>
 
 <!-- ProductInfo card and toast declaration -->
-<ProductInfo {product} {game_state} />
+<div class="flex justify-center"><ProductInfo {product} {game_state} /></div>
 <SvelteToast />
 
 <!-- Guesses list, with input and copy score (depending on game state) -->
-<div class="pt-5 p-3">
-	<Guesses {guesses} />
+<div class="flex justify-center p-3 pt-5">
+	<div class="w-72">
+		<Guesses {guesses} />
 
-	<!-- show guess input if game is ongoing -->
-	{#if game_state == 1}
-		<div class="flex justify-center pt-3">
-			<input
-				type="number"
-				id="guess"
-				min="0"
-				placeholder="Enter your guess!"
-				class="pr-3"
-				bind:this={inputField}
-				bind:value={current_guess}
-				on:keydown={onInput}
-			/>
-		</div>
-	{/if}
+		<!-- show guess input if game is ongoing -->
+		{#if game_state == 1}
+			<div class="flex justify-center pt-3">
+				<input
+					type="number"
+					id="guess"
+					min="0"
+					placeholder="Enter your guess!"
+					bind:this={inputField}
+					bind:value={current_guess}
+					on:keydown={onInput}
+				/>
+			</div>
+		{/if}
 
-	<!-- show copy score button if game is not ongoing -->
-	{#if game_state !== 1}
-		<button
-			class="bg-crimson uppercase text-off-white font-lato w-40 rounded-md"
-			id="copy-button"
-			use:copy={score}
-			on:click={() => toast.push('Score copied to clipboard.')}
-		>
-			Share Score
-		</button>
-	{/if}
+		<!-- show copy score button if game is not ongoing -->
+		{#if game_state !== 1}
+			<div class="pt-3">
+				<button
+					class="bg-crimson uppercase text-off-white font-lato w-40 rounded-md"
+					id="copy-button"
+					use:copy={score}
+					on:click={() => toast.push('Score copied to clipboard.')}
+				>
+					Share Score
+				</button>
+			</div>
+		{/if}
+	</div>
 </div>

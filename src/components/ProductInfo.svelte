@@ -8,11 +8,13 @@
 </script>
 
 <div
-	class="max-w-xs border border-gray-200 rounded-lg shadow dark:border-gray-700 font-poly tracking-tight"
+	class="max-w-xs border border-gray-200 rounded-lg shadow dark:border-gray-700 font-poly tracking-tight bg-[#FFFFFF]"
 >
 	<div class="p-5">
-		<img class="rounded-t-lg pb-3" src={product.img} alt={product.name} />
-		<div class="">
+		<div class="flex justify-center">
+			<img class="rounded-t-lg pb-3 max-h-96" src={product.img} alt={product.name} />
+		</div>
+		<div>
 			<p
 				class="font-normal text-brown dark:text-gray-400 font-lato font-semibold uppercase tracking-tight"
 			>
