@@ -55,7 +55,7 @@
 		// check if guess is invalid
 		let valid_guess = /\d|\./;
 		if (!valid_guess.test(raw_guess)) {
-			toast.push('Invalid input. Try again!');
+			push_toast('Invalid input. Try again!');
 			return;
 		}
 
@@ -64,7 +64,7 @@
 		// check if already submitted
 		already_guessed = false;
 		if (guesses.some((obj) => obj.guess === guess)) {
-			toast.push('Already guessed!');
+			push_toast('Already guessed!');
 			already_guessed = true;
 			return;
 		}
@@ -86,8 +86,13 @@
 
 			// if the game ends
 			if (game_state !== 1) {
-				toast.push(game_message, {
-					initial: 0
+				toast.push(`<div class="font-poly">` + game_message + `</div>`, {
+					initial: 0,
+					theme: {
+						'--toastColor': '#000000',
+						'--toastBackground': '#d1d7e0',
+						'--toastBarBackground': '#DC143C'
+					}
 				}); // push win/loss message to toast component
 				score = format_score(); // format copy-able score
 			}
@@ -106,6 +111,16 @@
 		return ret;
 	}
 
+	function push_toast(message: string) {
+		toast.push(`<div class="font-poly">` + message + `</div>`, {
+			theme: {
+				'--toastColor': '#000000',
+				'--toastBackground': '#d1d7e0',
+				'--toastBarBackground': '#DC143C'
+			}
+		});
+	}
+
 	// submit on 'enter' press and clear input field
 	const onInput = (event) => {
 		if (event.key !== 'Enter') return;
@@ -113,6 +128,10 @@
 		inputField.value = '';
 	};
 </script>
+
+<svelte:head>
+	<title>Trader Joedle</title>
+</svelte:head>
 
 <!-- ProductInfo card and toast declaration -->
 <div class="flex justify-center"><ProductInfo {product} {game_state} /></div>
@@ -130,6 +149,7 @@
 					type="number"
 					id="guess"
 					min="0"
+					class=" outline outline-1 rounded p-2"
 					placeholder="Enter your guess!"
 					bind:this={inputField}
 					bind:value={current_guess}
@@ -140,12 +160,12 @@
 
 		<!-- show copy score button if game is not ongoing -->
 		{#if game_state !== 1}
-			<div class="pt-3">
+			<div class="flex justify-center pt-3">
 				<button
-					class="bg-crimson uppercase text-off-white font-lato w-40 rounded-md"
+					class="bg-crimson uppercase text-off-white font-lato w-40 rounded-md p-2 outline outline-1 outline-[#000000]"
 					id="copy-button"
 					use:copy={score}
-					on:click={() => toast.push('Score copied to clipboard.')}
+					on:click={() => push_toast('Score copied to clipboard.')}
 				>
 					Share Score
 				</button>

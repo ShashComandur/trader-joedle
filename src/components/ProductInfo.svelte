@@ -8,7 +8,7 @@
 </script>
 
 <div
-	class="max-w-xs border border-gray-200 rounded-lg shadow dark:border-gray-700 font-poly tracking-tight bg-[#FFFFFF]"
+	class="border border-gray-200 rounded-lg shadow dark:border-gray-700 font-poly tracking-tight bg-[#FFFFFF]"
 >
 	<div class="p-5">
 		<div class="flex justify-center">
@@ -20,7 +20,7 @@
 			>
 				Trader Joedle #{product.game_number}
 			</p>
-			<h5 class="mb-2 text-2xl font-bold text-gray-900 dark:text-white">
+			<h5 class="pb-1 text-2xl font-bold text-gray-900 dark:text-white max-w-96">
 				{product.name}
 			</h5>
 
