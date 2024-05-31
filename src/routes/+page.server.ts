@@ -10,7 +10,6 @@ function get_todays_game() {
     let year = today_date.getFullYear().toString()
     if (date.length == 1) { date = 0 + date}            // add leading 0 to date if needed
     const formatted_date = `${month} ${date} ${year}`
-    console.log(formatted_date)
 
     return games.filter(item => item.date === formatted_date)
 }
@@ -34,6 +33,7 @@ export async function load() {
         amount,
         unit,
         date,
-        game_number
+        game_number,
+        item_characteristics
     }
 }

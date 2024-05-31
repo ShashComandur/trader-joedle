@@ -4,7 +4,7 @@ let green_threshold: Object, yellow_threshold: Object, red_threshold: Object
 // Set thresholds depending on price - helper for check win
 function set_thresholds(price: number) {
     green_threshold = { emoji: '🟢', price: Math.abs(price * 0.05) };
-    yellow_threshold = { emoji: '🟡', price: Math.abs(price * 0.15) };
+    yellow_threshold = { emoji: '🟡', price: Math.abs(price * 0.25) };
     red_threshold = { emoji: '🔴' };
 }
 
