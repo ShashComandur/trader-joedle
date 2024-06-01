@@ -4,9 +4,14 @@
 </script>
 
 <main class="bg-off-white">
-	<h1 class="flex justify-center pt-5 font-traderjoes text-4xl md:text-6xl text-crimson">
-		Trader Joedle
-	</h1>
+	<div class="flex flex-row justify-center pt-5">
+		<h1 class="font-traderjoes text-4xl md:text-6xl text-crimson pr-5">
+			<a href="/">Trader Joedle</a>
+		</h1>
+		<a href="/about">
+			<img src={help} class="w-7 pt-1 md:w-9 md:pt-3" />
+		</a>
+	</div>
 
 	<div class="flex flex-col md:flex-row justify-center p-5">
 		<slot />
