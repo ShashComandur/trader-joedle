@@ -2,7 +2,6 @@
 	import '../app.css';
 	import help from '$lib/assets/help.svg';
 	import { inject } from '@vercel/analytics';
-	inject({ mode: dev ? 'development' : 'production' });
 </script>
 
 <main class="bg-off-white">
