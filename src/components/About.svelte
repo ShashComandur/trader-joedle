@@ -36,18 +36,18 @@
 			<img src={banana} class="w-10 h-10" />
 		</div>
 		<p class="font-lato pb-2 pt-2">
-			Created by <a href="http://shashcomandur.com/">Shashank Comandur</a>. If you have suggestions,
-			comments, or found a bug, please
-			<a href="mailto:shashank.comandur@gmail.com">shoot me an email</a>!
-		</p>
-		<hr />
-		<p class="font-lato pb-2 pt-2">
 			Special thanks to <a href="https://www.nytimes.com/games/wordle/index.html">Wordle</a> and
 			<a href="https://costcodle.com/">Costcodle</a>
 			(created by
 			<a href="https://github.com/KermWasTaken">@Kerm</a>) for inspiring&#8196<a
 				class="font-traderjoes text-lg text-crimson">Trader Joedle</a
 			>&#8196!
+		</p>
+		<hr />
+		<p class="font-lato pb-2 pt-2">
+			Created by <a href="http://shashcomandur.com/">Shashank Comandur</a>. If you have suggestions,
+			comments, or found a bug, please
+			<a href="mailto:shashank.comandur@gmail.com">shoot me an email</a>!
 		</p>
 	</div>
 	<div class="pb-5">
