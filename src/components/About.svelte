@@ -14,7 +14,7 @@
 		</div>
 		<p class="font-lato pb-2">
 			Guess the&#8196<a class="font-traderjoes text-lg text-crimson">Trader Joedle</a>&#8196in six
-			attempts or less! If you guess the price of the item within 5%, you win!
+			attempts or fewer! If you guess the price of the item (within 5%), you win!
 		</p>
 		<hr />
 		<p class="font-lato pb-2 pt-2">
