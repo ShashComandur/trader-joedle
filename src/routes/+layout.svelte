@@ -1,6 +1,7 @@
 <script>
 	import '../app.css';
 	import help from '$lib/assets/help.svg';
+	import { inject } from '@vercel/analytics'
 </script>
 
 <main class="bg-off-white">
