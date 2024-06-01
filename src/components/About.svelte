@@ -61,7 +61,7 @@
 			<a href="https://tailwindcss.com/">Tailwind</a>, and deployed with
 			<a href="https://vercel.com/">Vercel</a>. The product data was sourced from
 			<a href="https://www.traderjoes.com/home/products">Trader Joe's product API</a>. All source
-			code is available on my
+			code is available on
 			<a href="https://github.com/ShashComandur/trader-joedle">GitHub</a>!
 		</p>
 	</div>
