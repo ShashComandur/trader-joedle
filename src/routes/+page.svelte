@@ -53,8 +53,8 @@
 	// guess handler
 	function handle_guess(raw_guess: number) {
 		// check if guess is invalid
-		let valid_guess = /\d|\./;
-		if (!valid_guess.test(raw_guess)) {
+		let valid_guess = /[0-9]|\./;
+		if (!valid_guess.test(raw_guess) || raw_guess < 0) {
 			push_toast('Invalid input. Try again!');
 			return;
 		}
