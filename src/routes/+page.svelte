@@ -86,7 +86,7 @@
 
 			// if the game ends
 			if (game_state !== 1) {
-				toast.push(`<div class="font-poly">` + game_message + `</div>`, {
+				toast.push(`<div class="font-lato">` + game_message + `</div>`, {
 					initial: 0,
 					theme: {
 						'--toastColor': '#000000',
@@ -112,7 +112,7 @@
 	}
 
 	function push_toast(message: string) {
-		toast.push(`<div class="font-poly">` + message + `</div>`, {
+		toast.push(`<div class="font-lato">` + message + `</div>`, {
 			theme: {
 				'--toastColor': '#000000',
 				'--toastBackground': '#d1d7e0',
