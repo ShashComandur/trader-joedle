@@ -12,7 +12,7 @@
 >
 	<div class="p-5">
 		<div class="flex justify-center">
-			<img class="rounded-t-lg pb-3 max-h-96" src={product.img} alt={product.name} />
+			<img class="rounded-t-lg pb-3 max-h-52 md:max-h-96" src={product.img} alt={product.name} />
 		</div>
 		<div>
 			<p

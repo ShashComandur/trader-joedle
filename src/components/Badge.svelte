@@ -1,10 +1,6 @@
 <script lang="ts">
 	export let item_characteristics: [];
 
-	/* Take the characteristic "Gluten Free", for example.
-	 * Badge component needs both "Gluten Free" for display and "gluten-free" for styling purposes.
-	 * This function formats characteristics as needed for that component.
-	 */
 	function format_characteristics(chars: []) {
 		const color_map = {
 			'Antibiotic Free': 'bg-red-400',
@@ -35,7 +31,7 @@
 	}
 </script>
 
-<div class="mb-5 font-lato uppercase text-xs flex overflow-y-auto">
+<div class="mb-2 font-lato uppercase text-xs flex overflow-y-auto">
 	{#each chars as char}
 		<div
 			class="{char[

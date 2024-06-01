@@ -11,7 +11,7 @@
 		Guess the price! ({guesses.length}/6)
 	</h1>
 
-	<div class="font-poly text-3xl">
+	<div class="font-poly text-2xl md:text-3xl">
 		{#each guesses as current_guess}
 			<div class="bg-[#d1d7e0] rounded-lg m-2 p-2 outline outline-1">
 				<div transition:fly={{ x: 100 }}>
