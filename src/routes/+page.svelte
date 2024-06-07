@@ -103,7 +103,8 @@
 	// TODO: move to `src/lib/game/game_functions.ts`
 	function format_score() {
 		let ret = 'Trader Joedle #' + game_number + '\n';
-		ret += hints.length + '/6' + '\n';
+		if (game_state === 2) { ret += hints.length + '/6' + '\n' }
+		if (game_state === 0) { ret += 'X/6' + '\n'; } // display loss with 'X'
 		for (const hint of hints) {
 			ret += hint + '\n';
 		}
