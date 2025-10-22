@@ -46,7 +46,7 @@
 </script>
 
 <svelte:head>
-	<title>Trader Joedle — Password Required</title>
+	<title>Trader Joedle</title>
 </svelte:head>
 
 <SvelteToast />
