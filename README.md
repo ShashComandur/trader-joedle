@@ -1,14 +1,14 @@
 # Trader Joedle 🛒
 
-A daily price-guessing game inspired by Wordle, featuring real Trader Joe's products! Can you guess the price of today's featured item?
+A daily price-guessing game inspired by Wordle, featuring real Trader Joe's products!
 
 ## About the Game
 
-**Trader Joedle** is a fun daily puzzle where you try to guess the price of a featured Trader Joe's product in 6 attempts or fewer. Each guess provides helpful hints to guide you toward the correct price:
+**Trader Joedle** is a daily puzzle where you try to guess the price of a featured Trader Joe's product in 6 attempts or fewer. Each guess provides a hint to guide you toward the correct price:
 
 - 🟢 **Green circle**: You're within 5% of the actual price - you win!
 - 🟡 **Yellow circle + arrow**: You're warm (within 25%) but need to go higher ↑ or lower ↓
-- 🔴 **Red circle + arrow**: You're cold but getting directional feedback
+- 🔴 **Red circle + arrow**: You're cold but getting feedback
 
 A new Trader Joedle is available every day at 12 AM EST. Share your score when you finish!
 
@@ -23,11 +23,10 @@ A new Trader Joedle is available every day at 12 AM EST. Share your score when y
 
 ## Tech Stack
 
-- **Frontend**: SvelteKit with TypeScript
+- **Frontend**: SvelteKit with TypeScript, inspired by the Trader Joe's brandkit
 - **Styling**: Tailwind CSS with custom fonts
 - **Deployment**: Vercel
-- **Testing**: Playwright (integration) + Vitest (unit)
-- **Data**: Trader Joe's product API
+- **Data**: Ethically sourced from Trader Joe's product API
 
 ## Development
 
