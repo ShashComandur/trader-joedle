@@ -1,23 +1,55 @@
-# create-svelte
+# Trader Joedle 🛒
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+A daily price-guessing game inspired by Wordle, featuring real Trader Joe's products! Can you guess the price of today's featured item?
 
-## Creating a project
+## About the Game
 
-If you're seeing this, you've probably already done this step. Congrats!
+**Trader Joedle** is a fun daily puzzle where you try to guess the price of a featured Trader Joe's product in 6 attempts or fewer. Each guess provides helpful hints to guide you toward the correct price:
 
+- 🟢 **Green circle**: You're within 5% of the actual price - you win!
+- 🟡 **Yellow circle + arrow**: You're warm (within 25%) but need to go higher ↑ or lower ↓
+- 🔴 **Red circle + arrow**: You're cold but getting directional feedback
+
+A new Trader Joedle is available every day at 12 AM EST. Share your score when you finish!
+
+## Features
+
+- Daily puzzle with real Trader Joe's products
+- Visual product information with images and characteristics
+- Smart hint system with emoji feedback
+- Shareable results
+- Responsive design optimized for mobile and desktop
+- Built with accessibility in mind
+
+## Tech Stack
+
+- **Frontend**: SvelteKit with TypeScript
+- **Styling**: Tailwind CSS with custom fonts
+- **Deployment**: Vercel
+- **Testing**: Playwright (integration) + Vitest (unit)
+- **Data**: Trader Joe's product API
+
+## Development
+
+### Prerequisites
+
+- Node.js 18+ 
+- npm, pnpm, or yarn
+
+### Getting Started
+
+1. Clone the repository:
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+git clone https://github.com/ShashComandur/trader-joedle.git
+cd trader-joedle
 ```
 
-## Developing
+2. Install dependencies:
+```bash
+npm install
+```
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
+3. Start the development server:
 ```bash
 npm run dev
 
@@ -25,7 +57,19 @@ npm run dev
 npm run dev -- --open
 ```
 
-## Building
+### Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Create production build
+- `npm run preview` - Preview production build
+- `npm run test` - Run all tests
+- `npm run test:unit` - Run unit tests
+- `npm run test:integration` - Run Playwright integration tests
+- `npm run check` - Type checking with Svelte
+- `npm run lint` - Lint code
+- `npm run format` - Format code with Prettier
+
+## Building for Production
 
 To create a production version of your app:
 
@@ -35,4 +79,17 @@ npm run build
 
 You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Contributing
+
+Found a bug or have a suggestion? Please [open an issue](https://github.com/ShashComandur/trader-joedle/issues) or send an email to shashank.comandur@gmail.com.
+
+## Acknowledgments
+
+Special thanks to:
+- [Wordle](https://www.nytimes.com/games/wordle/index.html) for the original word-guessing inspiration
+- [Costcodle](https://costcodle.com/) by [@Kerm](https://github.com/KermWasTaken) for the price-guessing concept
+- Trader Joe's for their amazing products and accessible product data
+
+## License
+
+Created by [Shashank Comandur](http://shashcomandur.com/). All source code is available on [GitHub](https://github.com/ShashComandur/trader-joedle).
